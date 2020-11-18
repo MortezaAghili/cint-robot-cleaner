@@ -2,7 +2,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/MortezaAghili/cint-robot-cleaner">
-    <img src="images/logo.png" alt="Logo" width="200" height="80">
+    <img src="images/logo.png" alt="Logo" width="400" height="200">
   </a>
   <h3 align="center">Cint Robot Cleaner</h3>
 </p>
